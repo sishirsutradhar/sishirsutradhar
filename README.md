@@ -13,9 +13,9 @@
 <p align="left">
 <a href="https://twitter.com/sutradharsishir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sutradharsishir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sishirsutradhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sishirsutradhar" height="30" width="40" /></a>
-<a href="https://fb.com/sishir sutradhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sishir sutradhar" height="30" width="40" /></a>
+<a href="https://fb.com/sishir.sutradhar.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sishir.sutradhar.9" height="30" width="40" /></a>
 <a href="https://instagram.com/sishir_sutradhar9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sishir_sutradhar9" height="30" width="40" /></a>
-<a href="https://discord.gg/sishir_sutradhar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sishir_sutradhar8" height="30" width="40" /></a>
+<a href="https://discord.gg/619136264746041344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="619136264746041344" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
